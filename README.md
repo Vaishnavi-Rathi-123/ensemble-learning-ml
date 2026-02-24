@@ -104,15 +104,6 @@ Through this project, I gained practical clarity on:
 
 ---
 
-## 🎯 Future Improvements
-
-- Hyperparameter tuning (GridSearchCV)
-- Feature importance comparison
-- Model performance benchmarking
-- Experiments on real-world datasets
-
----
-
 ## 👩‍💻 Author
 
 Vaishnavi Rathi
